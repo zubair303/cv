@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+}
+
+#main {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+footer {
+    margin-top: 120px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+a {
+    margin-right: 60px;
+}
